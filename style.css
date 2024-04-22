@@ -4,10 +4,11 @@
   font-family: "Roboto", sans-serif;
 }
 body{
-  background-image: url('gambar/images5.jpeg');
+  background-image: url('gambar/modern-geometrical-background-with-white-triangles.jpg');
   background-size: cover;
   background-position: center;
   mix-blend-mode: multiply;
+  background-attachment: fixed;
 }
 
 .wrapper{
