@@ -182,3 +182,7 @@ body{
   height: 200px;
   width: 300px;
 }
+
+#selengkapnya{
+  display: none;
+}
